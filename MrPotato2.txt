@@ -2,4 +2,3 @@ cabeza
 brazos
 ojos
 piernas
-
